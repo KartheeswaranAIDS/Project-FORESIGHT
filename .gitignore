@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+.agents/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Instruction folder (internal docs, not for deployment)
+Instruction/
+
+# Data files (auto-generated on first run)
+data/
+
+# Distribution
+*.egg-info/
+dist/
+build/
